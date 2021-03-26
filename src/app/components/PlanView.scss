@@ -1,0 +1,11 @@
+.plan-view {
+  display: block;
+  padding: 5px;
+  margin-top: 55px;
+}
+
+@media (max-width: 880px) {
+  .plan-view {
+    margin-top: 65px;
+  }
+}
